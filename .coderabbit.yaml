@@ -23,6 +23,7 @@ reviews:
   # Auto review settings
   auto_review:
     enabled: true
+    base_branches: [".*"]
     auto_incremental_review: true
     drafts: false
     
